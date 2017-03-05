@@ -1,2 +1,2 @@
 # jrmvignesh.github.io
-Portfolio
+Portfolio to showcase my list of projects.
